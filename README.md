@@ -1,16 +1,16 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td>
+          <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e64a0028-0a77-4342-ac18-a030013affb9" />
 
-<!--
-**angelivas/angelivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    </td>
+    <td>
+           <h3 align="center">
+PLEASE READ BEFORE INTERACTING!!
+</h3>
+<p align="center">
+Hiii this is my school coding acc which i hope i didnt have to create lolsieees anyways follow me on <a href="https://github.com/venticoops">main</a> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    </td>
+  </tr>
+</table>
